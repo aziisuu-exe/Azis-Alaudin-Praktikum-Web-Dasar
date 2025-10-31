@@ -1,6 +1,3 @@
-# Azis-Alaudin-Praktikum-Web-Dasar
-# Repository ini hanya digunakan untuk tugas kuliah saja ygy.
-
 <h1 align="center">
   Halo! Saya Azis Alaudin Alam 👋
 </h1>
@@ -9,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/43/05/db/4305db796f7d8fcb41b27df23912358c.jpg" alt="Banner Profil" width="750px">
+  <img src="https://i.pinimg.com/1200x/75/3e/ad/753eadc4f131dfc2417e880dca37cca3.jpg" alt="Banner Profil" width="750px">
 </p>
 
 ---
