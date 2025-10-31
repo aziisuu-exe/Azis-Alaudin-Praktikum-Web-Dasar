@@ -4,10 +4,10 @@
 <h3 align="center">
   Saya seorang mahasiswa yang mempunyai minat yang tinggi pada 
 </h3>
-<h4 align="center> [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity] </h4>
+<h4 align="center"> [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity] </h4>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9d/67/62/9d6762d1cdfcc1e67be050a48de232f3.jpg" alt="Banner Profil" width="1080px">
+  <img src="https://i.pinimg.com/736x/9d/67/62/9d6762d1cdfcc1e67be050a48de232f3.jpg" alt="Banner Profil">
 </p>
 
 ---
