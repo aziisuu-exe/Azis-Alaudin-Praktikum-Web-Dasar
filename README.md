@@ -7,7 +7,7 @@
 <h4 align="center> [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity] </h4>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/87/62/5f/87625fbbc0d874f42c5807c0a4a190b2.jpg" alt="Banner Profil" width="1080px">
+  <img src="https://i.pinimg.com/736x/85/ee/55/85ee555349c2cdb5da1a5fd7a3a5dddf.jpg" alt="Banner Profil" width="1080px">
 </p>
 
 ---
