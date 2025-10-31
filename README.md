@@ -3,11 +3,11 @@
 </h1>
 <h3 align="center">
   Saya seorang mahasiswa yang mempunyai minat yang tinggi pada 
-  [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity]
 </h3>
+<h4> [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity] </h4>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/20/55/b7/2055b7dcfd095459e6c8ba72ec7ef88e.jpg" alt="Banner Profil"">
+  <img src="https://i.pinimg.com/736x/87/62/5f/87625fbbc0d874f42c5807c0a4a190b2.jpg" alt="Banner Profil"">
 </p>
 
 ---
