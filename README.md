@@ -2,11 +2,12 @@
   Halo! Saya Azis Alaudin Alam 👋
 </h1>
 <h3 align="center">
-  Saya seorang mahasiswa yang mempunyai minat yang tinggi akan [Video Editing], [UI UX Design], [3D Modeling] dan [Cybersecurity]
+  Saya seorang mahasiswa yang mempunyai minat yang tinggi pada 
+  [Video Editing] [UI UX Design] [3D Modeling] [Cybersecurity]
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/75/3e/ad/753eadc4f131dfc2417e880dca37cca3.jpg" alt="Banner Profil" width="750px">
+  <img src="https://i.pinimg.com/1200x/73/95/dd/7395dd2684f903cb87736d62f6c13bfa.jpg" alt="Banner Profil" width="750px">
 </p>
 
 ---
