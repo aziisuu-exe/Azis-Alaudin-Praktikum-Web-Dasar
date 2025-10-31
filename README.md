@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/73/95/dd/7395dd2684f903cb87736d62f6c13bfa.jpg" alt="Banner Profil" width="750px">
+  <img src="https://i.pinimg.com/736x/20/55/b7/2055b7dcfd095459e6c8ba72ec7ef88e.jpg" alt="Banner Profil"">
 </p>
 
 ---
@@ -62,7 +62,3 @@ Anda bisa menemukan saya di sini:
 </p>
 
 ---
-
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAMEANDA]&layout=compact&locale=id&theme=dracula" alt="Bahasa yang Paling Sering Digunakan" />
-</p>
